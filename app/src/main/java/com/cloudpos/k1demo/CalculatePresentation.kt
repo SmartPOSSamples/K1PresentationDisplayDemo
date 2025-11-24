@@ -1,4 +1,4 @@
-package com.wizarpos.k1demo
+package com.cloudpos.k1demo
 
 import android.app.Presentation
 import android.content.Context
@@ -7,11 +7,11 @@ import android.text.method.ScrollingMovementMethod
 import android.util.Log
 import android.view.Display
 import android.widget.Toast
-import com.wizarpos.k1demo.constants.*
-import com.wizarpos.k1demo.constants.isLegalNum
-import com.wizarpos.k1demo.databinding.CalculatePresentationBinding
-import com.wizarpos.k1demo.util.CalculateUtil
-import com.wizarpos.k1demo.util.TextViewUtil
+import com.cloudpos.k1demo.constants.*
+import com.cloudpos.k1demo.constants.isLegalNum
+import com.cloudpos.k1demo.databinding.CalculatePresentationBinding
+import com.cloudpos.k1demo.util.CalculateUtil
+import com.cloudpos.k1demo.util.TextViewUtil
 
 
 class CalculatePresentation(context: Context, display: Display) : Presentation(context, display) {

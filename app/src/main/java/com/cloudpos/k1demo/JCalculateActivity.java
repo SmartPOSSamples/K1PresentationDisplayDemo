@@ -1,6 +1,6 @@
-package com.wizarpos.k1demo;
+package com.cloudpos.k1demo;
 
-import static com.wizarpos.k1demo.constants.JCalcConstants.*;
+import static com.cloudpos.k1demo.constants.JCalcConstants.*;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -17,7 +17,7 @@ import android.view.KeyEvent;
 import androidx.activity.ComponentActivity;
 import androidx.annotation.RequiresApi;
 
-import com.wizarpos.k1demo.databinding.ActivityPresentationBinding;
+import com.cloudpos.k1demo.databinding.ActivityPresentationBinding;
 
 public class JCalculateActivity extends ComponentActivity {
 

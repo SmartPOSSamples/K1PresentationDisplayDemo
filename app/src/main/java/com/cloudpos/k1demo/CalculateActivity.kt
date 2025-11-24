@@ -1,4 +1,4 @@
-package com.wizarpos.k1demo
+package com.cloudpos.k1demo
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -10,19 +10,19 @@ import android.util.Log
 import android.view.Display
 import android.view.KeyEvent
 import androidx.activity.ComponentActivity
-import com.wizarpos.k1demo.constants.NUM_0
-import com.wizarpos.k1demo.constants.NUM_1
-import com.wizarpos.k1demo.constants.NUM_2
-import com.wizarpos.k1demo.constants.NUM_3
-import com.wizarpos.k1demo.constants.NUM_4
-import com.wizarpos.k1demo.constants.NUM_5
-import com.wizarpos.k1demo.constants.NUM_6
-import com.wizarpos.k1demo.constants.NUM_7
-import com.wizarpos.k1demo.constants.NUM_8
-import com.wizarpos.k1demo.constants.NUM_9
-import com.wizarpos.k1demo.constants.NUM_PLUS
-import com.wizarpos.k1demo.constants.NUM_POINTS
-import com.wizarpos.k1demo.databinding.ActivityPresentationBinding
+import com.cloudpos.k1demo.constants.NUM_0
+import com.cloudpos.k1demo.constants.NUM_1
+import com.cloudpos.k1demo.constants.NUM_2
+import com.cloudpos.k1demo.constants.NUM_3
+import com.cloudpos.k1demo.constants.NUM_4
+import com.cloudpos.k1demo.constants.NUM_5
+import com.cloudpos.k1demo.constants.NUM_6
+import com.cloudpos.k1demo.constants.NUM_7
+import com.cloudpos.k1demo.constants.NUM_8
+import com.cloudpos.k1demo.constants.NUM_9
+import com.cloudpos.k1demo.constants.NUM_PLUS
+import com.cloudpos.k1demo.constants.NUM_POINTS
+import com.cloudpos.k1demo.databinding.ActivityPresentationBinding
 
 class CalculateActivity : ComponentActivity() {
 

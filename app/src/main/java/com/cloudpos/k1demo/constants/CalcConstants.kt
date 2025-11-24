@@ -1,4 +1,4 @@
-package com.wizarpos.k1demo.constants
+package com.cloudpos.k1demo.constants
 
 const val NUM_0 = "0"
 const val NUM_1 = "1"

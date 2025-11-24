@@ -1,4 +1,4 @@
-package com.wizarpos.k1demo.constants;
+package com.cloudpos.k1demo.constants;
 
 
 public class JCalcConstants {

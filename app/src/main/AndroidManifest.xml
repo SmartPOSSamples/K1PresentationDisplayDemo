@@ -20,7 +20,7 @@
 
         </activity>
 
-        <activity android:name="com.wizarpos.k1demo.CalculateActivity" android:exported="true">
+        <activity android:name="com.cloudpos.k1demo.CalculateActivity" android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

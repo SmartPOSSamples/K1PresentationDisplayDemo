@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.wizarpos.k1demo"
+    namespace = "com.cloudpos.k1demo"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.wizarpos.k1demo"
+        applicationId = "com.cloudpos.k1demo"
         minSdk = 23
         targetSdk = 35
         versionCode = 1

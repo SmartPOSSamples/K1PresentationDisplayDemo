@@ -1,4 +1,4 @@
-package com.wizarpos.k1demo.ui.theme
+package com.cloudpos.k1demo.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

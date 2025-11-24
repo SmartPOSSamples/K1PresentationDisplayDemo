@@ -1,6 +1,6 @@
-package com.wizarpos.k1demo;
+package com.cloudpos.k1demo;
 
-import static com.wizarpos.k1demo.constants.JCalcConstants.*;
+import static com.cloudpos.k1demo.constants.JCalcConstants.*;
 
 import android.app.Presentation;
 import android.content.Context;
@@ -12,9 +12,9 @@ import android.widget.Toast;
 
 import androidx.annotation.RequiresApi;
 
-import com.wizarpos.k1demo.databinding.CalculatePresentationBinding;
-import com.wizarpos.k1demo.util.JCalculateUtil;
-import com.wizarpos.k1demo.util.JTextViewUtil;
+import com.cloudpos.k1demo.databinding.CalculatePresentationBinding;
+import com.cloudpos.k1demo.util.JCalculateUtil;
+import com.cloudpos.k1demo.util.JTextViewUtil;
 
 import java.util.regex.Pattern;
 

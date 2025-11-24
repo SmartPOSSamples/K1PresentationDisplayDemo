@@ -1,11 +1,9 @@
-package com.wizarpos.k1demo.util
+package com.cloudpos.k1demo.util
 
 import android.graphics.Color
 import android.graphics.Typeface
 import android.text.SpannableString
-import android.text.SpannableStringBuilder
 import android.text.Spanned
-import android.text.style.AbsoluteSizeSpan
 import android.text.style.ForegroundColorSpan
 import android.util.Log
 import android.widget.TextView

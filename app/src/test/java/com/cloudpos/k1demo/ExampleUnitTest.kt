@@ -1,4 +1,4 @@
-package com.wizarpos.k1demo
+package com.cloudpos.k1demo
 
 import org.junit.Test
 

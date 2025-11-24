@@ -1,7 +1,7 @@
-package com.wizarpos.k1demo.util
+package com.cloudpos.k1demo.util
 
-import com.wizarpos.k1demo.constants.NUM_PLUS
-import com.wizarpos.k1demo.constants.NUM_POINTS
+import com.cloudpos.k1demo.constants.NUM_PLUS
+import com.cloudpos.k1demo.constants.NUM_POINTS
 import java.math.BigDecimal
 
 

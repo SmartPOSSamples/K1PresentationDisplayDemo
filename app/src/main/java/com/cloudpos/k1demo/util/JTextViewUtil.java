@@ -1,4 +1,4 @@
-package com.wizarpos.k1demo.util;
+package com.cloudpos.k1demo.util;
 
 import android.graphics.Color;
 import android.graphics.Typeface;
